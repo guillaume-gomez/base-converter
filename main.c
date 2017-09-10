@@ -151,6 +151,5 @@ int main()
             printf("\n");
         break;
       }
-	system("PAUSE");
 	return 0;
 }
